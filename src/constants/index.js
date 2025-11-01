@@ -32,3 +32,5 @@ export const THEMES = [
   "nord",
   "sunset",
 ];
+
+export const API_BASE_URL = 'https://talksy-backend-n5jg.onrender.com'
